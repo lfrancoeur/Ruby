@@ -1,1 +1,1 @@
-puts "Hello World 123"
+puts "Hello World"
