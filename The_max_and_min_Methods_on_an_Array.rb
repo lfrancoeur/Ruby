@@ -12,13 +12,15 @@ p fruits.min #gives you word that starts with the first letter in the alphabet (
 def custom_max(arr)
   #return the maximum in the array
   arr.max
-  arr.sort[-1] #does without max method
+#  arr.sort[-1] #does without max method
+
 end
 
 def custom_min(arr)
   #Return the minimum value in they array
   arr.min
 #  arr.sort[0] #does without min method
+
 end
 
 numbers = [3, 9, 5, 7, 10, 1]
