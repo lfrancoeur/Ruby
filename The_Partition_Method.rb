@@ -8,7 +8,3 @@ good, bad = foods.partition { |food| food.include?("Steak") } #same thing as the
 
 p good
 p bad
-
-[10, 1, 6, 4, 8, 10, 4].each_with_index do |number, i|
-    puts number * i * 2
-end
